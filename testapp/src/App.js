@@ -1,11 +1,10 @@
 import './App.css';
-import Myapp from './components/compo1';
-import Myapp2 from './components/compo2';
+import Myapp from './components/compo1'
 
 function App() {
   return (
     <div> 
-  <Myapp2 />
+  <h1>Hello, js.</h1>
   <Myapp />
   </div>
   );
